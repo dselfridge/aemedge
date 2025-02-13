@@ -101,7 +101,7 @@
       {
         "component": "text",
         "name": "name",
-        "label": "Section Name",
+        "label": "Section Debug Name",
         "description": "The label shown for this section in the Content Tree"
       },
       {
