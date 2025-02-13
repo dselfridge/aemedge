@@ -224,7 +224,7 @@
       {
         "component": "text",
         "name": "textContent_ctaText",
-        "label": "CTA label",
+        "label": "CTA Goofy label",
         "valueType": "string"
       }
     ]
